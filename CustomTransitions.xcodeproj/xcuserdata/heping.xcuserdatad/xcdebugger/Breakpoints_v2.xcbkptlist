@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F7C947BD-062B-4365-AF83-761937859E48"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A53B8B47-90AD-4A17-83B7-8B5D933B20A4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomTransitions/Custom Presentation/AAPLCustomPresentationController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "326"
+            endingLineNumber = "326"
+            landmarkName = "-animateTransition:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C324805-08EB-41D5-A12C-62633502B2D3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomTransitions/Custom Presentation/AAPLCustomPresentationController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "344"
+            endingLineNumber = "344"
+            landmarkName = "-animateTransition:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9C324805-08EB-41D5-A12C-62633502B2D3 - 818b77870d7e6472"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[AAPLCustomPresentationController animateTransition:]"
+                  moduleName = "CustomTransitions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/heping/Desktop/CustomViewControllerPresentationsandTransitions/CustomTransitions/Custom%20Presentation/AAPLCustomPresentationController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "344"
+                  endingLineNumber = "344"
+                  offsetFromSymbolStart = "1826">
+               </Location>
+               <Location
+                  uuid = "9C324805-08EB-41D5-A12C-62633502B2D3 - c4fc16369cd730f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__54-[AAPLCustomPresentationController animateTransition:]_block_invoke"
+                  moduleName = "CustomTransitions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/heping/Desktop/CustomViewControllerPresentationsandTransitions/CustomTransitions/Custom%20Presentation/AAPLCustomPresentationController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "344"
+                  endingLineNumber = "344"
+                  offsetFromSymbolStart = "305">
+               </Location>
+               <Location
+                  uuid = "9C324805-08EB-41D5-A12C-62633502B2D3 - 67150d417676972b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__54-[AAPLCustomPresentationController animateTransition:]_block_invoke.92"
+                  moduleName = "CustomTransitions"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/heping/Desktop/CustomViewControllerPresentationsandTransitions/CustomTransitions/Custom%20Presentation/AAPLCustomPresentationController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "344"
+                  endingLineNumber = "344"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
